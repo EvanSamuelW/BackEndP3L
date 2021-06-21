@@ -1,0 +1,4 @@
+[22-May-2021 18:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/plakbxyz/public_html/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/plakbxyz/public_html/config/services.php on line 18
